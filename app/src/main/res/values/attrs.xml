@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Clock">
+        <attr name="clockColor" format="color" />
+        <attr name="digitsColor" format="color" />
+        <attr name="digitsType" format="string" />
+        <attr name="secondsArrowColor" format="color"/>
+        <attr name="form" format="string"/>
+    </declare-styleable>
+</resources>
